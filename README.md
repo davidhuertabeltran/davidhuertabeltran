@@ -45,10 +45,10 @@ Github Repository: https://github.com/Hourja/sad-final-project
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/davidhuertabeltran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidhuertabeltran" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16541146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16541146" height="30" width="40" /></a>
-<a href="https://fb.com/chido.fajny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chido.fajny" height="30" width="40" /></a>
-<a href="https://instagram.com/chido_fajny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chido_fajny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/davidhuertabeltran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidhuertabeltran" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16541146" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16541146" height="30" width="40" /></a>
+<a href="https://fb.com/chido.fajny" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chido.fajny" height="30" width="40" /></a>
+<a href="https://instagram.com/chido_fajny" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chido_fajny" height="30" width="40" /></a>
 </p>
 
 
