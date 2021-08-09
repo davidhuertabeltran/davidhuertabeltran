@@ -8,6 +8,8 @@
 🌮 Originally from Mexico City, but living for more than 8 years in Warsaw, Poland.
 <br>
 🌍 Fluent in English & Spanish, communicative in Polish.
+<br>
+<h3 align="center">You can check my portfolio on my personal website: <br><a href="https://davidhuertabeltran.com/">davidhuertabeltran.com</a></h3>
 
 <h2 align="center"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px height=25px> </h2>
 <p align="center">
