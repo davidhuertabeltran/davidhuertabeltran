@@ -26,7 +26,7 @@
 
 <h2 align="center"> My Most Recent Project </h2>
 
-<p align="center"><a href="https://github.com/Hourja/sad-final-project">DAS Travel App</a></p>
+<h3 align="center"><a href="https://github.com/Hourja/sad-final-project">DAS Travel App</a></h3>
 
 An app made using Laravel and React made for tourists in major cities around the world. It provides a way to quickly access the most common phrases used in various situations in English (e.g. Coffee Shop, Train Station, Bar etc) and when you select a phrase you can see the translation in the local language and hear the pronunciation.
 <br>
