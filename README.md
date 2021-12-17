@@ -1,5 +1,6 @@
 <h1> Hello I'm David <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 🖥️ Currently working as Junior Fornt End DEveloper for <a href="https://www.linkedin.com/company/bracketspace/">BracketSpace</a>
+<br>
 👦 I'm a Junior web developer with experience in designing and creating websites with various technologies. 
 <br>
 👨‍🎓 Graduated as a Full Stack Web Developer in July 2021 from <a href="https://www.codingbootcamp.cz/">Coding Bootcamp Praha School</a>. During that time I learned HTML, CSS, JavaScript (React), PHP (Laravel) and MySQL. 
