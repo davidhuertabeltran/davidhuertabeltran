@@ -36,7 +36,7 @@ An app made using Laravel and React made for tourists in major cities around the
 What is more, the app provides you with a second option where you can see the local map with various points of interest, and by selecting what you want to visit it provides you with info about the place and also most used phrases.
 <br>
 <br>
-To see the full functional application you can go here: https://das-travel-app.codeboot.cz/
+To see the full functional application you can go here: http://dastravelapp.herokuapp.com
 <br>
 <br>
 Github Repository: https://github.com/Hourja/sad-final-project
