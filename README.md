@@ -1,5 +1,5 @@
 <h1> Hello I'm David <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-🖥️ Currently working as Junior Front End Developer for <a href="https://www.linkedin.com/company/bracketspace/">BracketSpace</a>
+🖥️ Currently working as Junior Front End Developer for <a href="https://departmentofweb.com/">Department of Web</a>
 <br>
 👦 I'm a Junior web developer with experience in designing and creating websites with various technologies. 
 <br>
