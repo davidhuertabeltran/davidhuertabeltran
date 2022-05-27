@@ -45,8 +45,8 @@ Github Repository: https://github.com/Hourja/sad-final-project
 
 
 <h3>:zap: Github Stats</h3>
-<p align="center">&nbsp;<img src="https://github-readme-stats-davidhuertabeltran.vercel.app/api/top-langs/?username=davidhuertabeltran&layout=compact&langs_count=8&custom_title=David%27s%20Most%20Used%20Languages" alt="davidhuertabeltran" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats-davidhuertabeltran.vercel.app/api?username=davidhuertabeltran&show_icons=true&count_private=true&custom_title=David%27s%20GitHub%20Stats" alt="davidhuertabeltran" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats-davidhuertabeltran.vercel.app/api/top-langs/?username=davidhuertabeltran&layout=compact&langs_count=8&custom_title=David%27s%20Most%20Used%20Languages&theme=radical" alt="davidhuertabeltran" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats-davidhuertabeltran.vercel.app/api?username=davidhuertabeltran&show_icons=true&count_private=true&custom_title=David%27s%20GitHub%20Stats&theme=radical" alt="davidhuertabeltran" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
